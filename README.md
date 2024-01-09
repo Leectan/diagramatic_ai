@@ -1,2 +1,3 @@
-# diagramatic_ai
-SaaS platform for all types diagrams using AI
+Diagramtic AI
+
+SaaS platform for all types diagrams generation using AI
