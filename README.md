@@ -1,3 +1,3 @@
 Diagramtic AI
 
-SaaS platform for all types diagrams generation using AI
+All in one AI platform for generating diagrams & collaborative canvas
